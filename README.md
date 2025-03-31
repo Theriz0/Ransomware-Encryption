@@ -41,7 +41,8 @@ The project consists of two Python scripts:
     ```bash
     python decrypt.py
     ```
-5.  Enter the password "1234" to decrypt the files.
+5.  Enter the password "1234" to test fail case of decryption for the files.
+6.  Enter the exact keyphrase in decrypt.py to decrypt the files.
 
 **Key Concepts:**
 
